@@ -1,5 +1,4 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
+
 import os
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import UnstructuredURLLoader
