@@ -1,2 +1,10 @@
 openai
 Langchain
+langchain.agents 
+langchain_openai 
+langchain_core
+langgraph
+langchain_community
+jsonschema
+typing-extensions 
+
